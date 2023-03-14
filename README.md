@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Amin</h1>
-<h3 align="center">A passionate flutter developer from Algeria</h3>
+<h3 align="center">A passionate Flutter developer from Algeria</h3>
 
 
 - 🔭 I’m currently working as a **Freelancer**
