@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Flutter developer from Algeria</h3>
 
 
-- 🔭 I’m currently working as a **Freelancer**
+- 🔭 I’m currently working at **IT Source One**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dev-aminmo](https://github.com/dev-aminmo)
 
